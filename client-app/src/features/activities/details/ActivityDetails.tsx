@@ -8,7 +8,6 @@ import ActivityDetailedInfo from "./ActivityDetailedInfo";
 import ActivityDetailedChat from "./ActivityDetailedChat";
 import ActivityDetailedSidebar from "./ActivityDetailedSidebar";
 import { RootStoreContext } from "../../../app/stores/rootStore";
-import { act } from "react-dom/test-utils";
 
 interface DetailParams {
   id: string;
